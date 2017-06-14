@@ -42,6 +42,8 @@ Writen in C.
 
 Low on dependencies.
 
+Free as in freedom.
+
 Framebuffer support like NetSurf for working in the virtual terminal (TTY).
 
 Actual javascript support so we can lurk and post in 4chan.
