@@ -38,6 +38,8 @@ Configuration options from an integrated command-line (with vimscript-like scrip
 
 A configuration file like Lynx.
 
+Send commands to the background to be optionally displayed in an optional interface, as to use wget web crawling feature like a DownThemAll, and to use and watch other batch commands.
+
 A way to import bookmarks from other browsers like Firefox.
 
 Search customization like surfraw, dwb funtions or InstantFox Quick Search, and reverse image search like Google Reverse Image Search.
