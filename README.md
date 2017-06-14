@@ -42,7 +42,7 @@ Writen in C.
 
 Low on dependencies.
 
-Free as in freedom.
+GPLv3.
 
 Framebuffer support like NetSurf for working in the virtual terminal (TTY).
 
