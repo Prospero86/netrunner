@@ -23,7 +23,7 @@ Proxy management like FoxyProxy.
 
 Local cache like Decentraleyes and Load from Cache.
 
-Option to turn off disk usage for all data (cache, tmp data, cookies, logs, etc.).
+Option to turn off disk usage for all data (cache, tmp data, cookies, logs, etc.), or/and make cache read only.
 
 All this in a per site basis.
 
