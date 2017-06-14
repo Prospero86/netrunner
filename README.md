@@ -23,6 +23,8 @@ Proxy management like FoxyProxy.
 
 Local cache like Decentraleyes and Load from Cache.
 
+Option to turn off disk usage for all data (cache, tmp data, cookies, logs, etc.).
+
 All this in a per site basis.
 
 URL Deobfuscation like "Google search link fix" and "Pure URL".
