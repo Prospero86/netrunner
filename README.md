@@ -36,7 +36,7 @@ Non-bloated smooth UI like dwb.
 
 Configuration options from an integrated command-line (with vimscript-like scripting language?).
 
-Configuration file like Lynx.
+A configuration file like Lynx.
 
 A way to import bookmarks from other browsers like Firefox.
 
