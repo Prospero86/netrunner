@@ -16,6 +16,7 @@ In the face of recent changes in Firefox, some anons were asking for a /g/'s per
 - URL Deobfuscation like "Google search link fix" and "Pure URL".
 - URI leak prevention like "No Resource URI Leak" and plugin enumeration prevention by returning "undefined".
 - Keyboard driven with dwb features like vi-like shortcuts, keyboard hints, quickmarks, custom commands.
+- Optional emacs-like keybindings (maybe default for new users to have an easier time?).
 - Non-bloated smooth UI like dwb.
 - Configuration options from an integrated command-line (with vimscript-like scripting language?).
 - A configuration file like Lynx.
@@ -24,7 +25,7 @@ In the face of recent changes in Firefox, some anons were asking for a /g/'s per
 - Search customization like surfraw, dwb funtions or InstantFox Quick Search, and reverse image search like Google Reverse Image Search.
 - Writen in C.
 - Low on dependencies.
-- GPL v3.
+- GPL v3+.
 - Framebuffer support like NetSurf for working in the virtual terminal (TTY).
 - Actual javascript support so we can lurk and post in 4chan.
 
