@@ -1,4 +1,6 @@
 # Netrunner
+>Project moved to https://git.teknik.io/eti/netrunner, mirrors https://github.com/5yph3r/Netrunner and http://magicpackets.net:3000/proudfeet/netrunner
+
 In the face of recent changes in Firefox, some anons were asking for a /g/'s perfect web browser, we have collected here the most wanted features:
 - Granular control over incomming traffic like Policeman (more control than uMatrix in this particular subject).
 - Granular control over outgoing traffic like Tamper Data or like Privacy Settings (the addon).
